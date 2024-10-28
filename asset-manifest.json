@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/prudentiabank2/static/css/main.d16c2d89.css",
-    "main.js": "/prudentiabank2/static/js/main.1369cf41.js",
+    "main.js": "/prudentiabank2/static/js/main.5a77ddaa.js",
     "static/js/453.a6d52da2.chunk.js": "/prudentiabank2/static/js/453.a6d52da2.chunk.js",
     "static/media/carloan.jpg..jpg": "/prudentiabank2/static/media/carloan.jpg..2fe484d3ce3d99d5715a.jpg",
     "static/media/personalloan.jpg": "/prudentiabank2/static/media/personalloan.e3c32d90908383ae737e.jpg",
@@ -21,11 +21,11 @@
     "static/media/logo.svg": "/prudentiabank2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/prudentiabank2/index.html",
     "main.d16c2d89.css.map": "/prudentiabank2/static/css/main.d16c2d89.css.map",
-    "main.1369cf41.js.map": "/prudentiabank2/static/js/main.1369cf41.js.map",
+    "main.5a77ddaa.js.map": "/prudentiabank2/static/js/main.5a77ddaa.js.map",
     "453.a6d52da2.chunk.js.map": "/prudentiabank2/static/js/453.a6d52da2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d16c2d89.css",
-    "static/js/main.1369cf41.js"
+    "static/js/main.5a77ddaa.js"
   ]
 }

@@ -1,18 +1,16 @@
 import React from 'react'
-import carousel1 from '../Assets/Carousel1.png'
-import carousel2 from '../Assets/Carousel2.png'
-import carousel3 from '../Assets/Carousel3.png'
-import carousel4 from '../Assets/Carousel4.png'
+import carousel1 from '../Assets/Carousel1.jpg'
+import carousel2 from '../Assets/Carousel2.jpg'
+import carousel3 from '../Assets/Carousel3.jpg'
 
 const Carousel = () => {
   return (
-    <div class="container h-50">
+    <div class="container h-50 mt-4">
       <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -34,13 +32,6 @@ const Carousel = () => {
       <div class="carousel-caption d-none d-md-block">
         <h5>Value for Deposits</h5>
         <p>We value your Deposits with proper interest rates.</p>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img src={carousel4} alt="..." class="d-block w-100"/>
-      <div class="carousel-caption d-none d-md-block">
-        <h5>24/7 Customer Service</h5>
-        <p>Customer Services provided at anytime.</p>
       </div>
     </div>
   </div>

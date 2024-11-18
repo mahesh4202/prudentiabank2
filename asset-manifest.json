@@ -1,31 +1,30 @@
 {
   "files": {
-    "main.css": "/prudentiabank2/static/css/main.d16c2d89.css",
-    "main.js": "/prudentiabank2/static/js/main.5a77ddaa.js",
+    "main.css": "/prudentiabank2/static/css/main.b7c8af8c.css",
+    "main.js": "/prudentiabank2/static/js/main.c28b778a.js",
     "static/js/453.a6d52da2.chunk.js": "/prudentiabank2/static/js/453.a6d52da2.chunk.js",
     "static/media/carloan.jpg..jpg": "/prudentiabank2/static/media/carloan.jpg..2fe484d3ce3d99d5715a.jpg",
     "static/media/personalloan.jpg": "/prudentiabank2/static/media/personalloan.e3c32d90908383ae737e.jpg",
     "static/media/propertyloan.jpg": "/prudentiabank2/static/media/propertyloan.4745f960ae9ffc6f3fab.jpg",
     "static/media/educationloan.jpg": "/prudentiabank2/static/media/educationloan.1876cba98e1564fbe1e6.jpg",
-    "static/media/Carousel3.png": "/prudentiabank2/static/media/Carousel3.6188946e4cd2f2ad23ee.png",
     "static/media/businessloan.jpg": "/prudentiabank2/static/media/businessloan.24c74b4e33a5b8b7192f.jpg",
-    "static/media/Carousel4.png": "/prudentiabank2/static/media/Carousel4.f9187c98232a768c6925.png",
-    "static/media/Carousel1.png": "/prudentiabank2/static/media/Carousel1.ca4ae57982a72148fbc0.png",
-    "static/media/Carousel2.png": "/prudentiabank2/static/media/Carousel2.bbd2233d82eb36436963.png",
     "static/media/agricultureloan.jpg": "/prudentiabank2/static/media/agricultureloan.d2ace7e03de61d9ad206.jpg",
     "static/media/Background Image.jpg": "/prudentiabank2/static/media/Background Image.4d2690127d8dc53f4b1f.jpg",
     "static/media/Main Page-Product.2.jpg": "/prudentiabank2/static/media/Main Page-Product.2.f66a50c4d98f826da2da.jpg",
+    "static/media/Carousel3.jpg": "/prudentiabank2/static/media/Carousel3.8ecfadac9d8a0c52ffbc.jpg",
     "static/media/Mobile App.jpg": "/prudentiabank2/static/media/Mobile App.16b77e4e2c477c25c25f.jpg",
+    "static/media/Carousel1.jpg": "/prudentiabank2/static/media/Carousel1.737f40bc8950ea74864b.jpg",
+    "static/media/Carousel2.jpg": "/prudentiabank2/static/media/Carousel2.ef38c8bdd327179c4ea1.jpg",
     "static/media/Main Page-Product.1.jpg": "/prudentiabank2/static/media/Main Page-Product.1.db74a1f8bf3ecbc29c20.jpg",
     "static/media/Prudentia Bank.png": "/prudentiabank2/static/media/Prudentia Bank.55a34d6f4e53382aa49a.png",
     "static/media/logo.svg": "/prudentiabank2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/prudentiabank2/index.html",
-    "main.d16c2d89.css.map": "/prudentiabank2/static/css/main.d16c2d89.css.map",
-    "main.5a77ddaa.js.map": "/prudentiabank2/static/js/main.5a77ddaa.js.map",
+    "main.b7c8af8c.css.map": "/prudentiabank2/static/css/main.b7c8af8c.css.map",
+    "main.c28b778a.js.map": "/prudentiabank2/static/js/main.c28b778a.js.map",
     "453.a6d52da2.chunk.js.map": "/prudentiabank2/static/js/453.a6d52da2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d16c2d89.css",
-    "static/js/main.5a77ddaa.js"
+    "static/css/main.b7c8af8c.css",
+    "static/js/main.c28b778a.js"
   ]
 }

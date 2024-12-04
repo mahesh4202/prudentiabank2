@@ -14,21 +14,21 @@ const Carousel = () => {
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src={carousel1} alt="..." class="d-block w-100"/>
+      <img src={carousel1} alt="..." class="d-block w-100" style={{ height: "400px" }}/>
       <div class="carousel-caption d-none d-md-block">
         <h5>One Click Banking</h5>
         <p>All Banking Services available at one click.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src={carousel2} alt="..." class="d-block w-100"/>
+      <img src={carousel2} alt="..." class="d-block w-100" style={{ height: "400px" }}/>
       <div class="carousel-caption d-none d-md-block">
         <h5>Prudentia Bank App</h5>
         <p>A app for all your Digital Payments.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src={carousel3} alt="..." class="d-block w-100"/>
+      <img src={carousel3} alt="..." class="d-block w-100" style={{ height: "400px" }}/>
       <div class="carousel-caption d-none d-md-block">
         <h5>Value for Deposits</h5>
         <p>We value your Deposits with proper interest rates.</p>

@@ -5,13 +5,13 @@ import { Link } from 'react-router-dom';
 export default function FooterEx() {
   return (
     <MDBFooter style={{ backgroundColor: "#e1e1e1" , color: "#ffffff"}} className='text-center text-lg-start text-muted'>
-      <section className=''>
+      <section>
         <MDBContainer className='text-center text-md-start mt-2'>
           <MDBRow className='mt-3'>
             <MDBCol md='3' lg='4' xl='3' className='mx-auto mb-2'>
               <h6 className='text-uppercase fw-bold mb-4'>
                 <MDBIcon color='secondary' icon='gem' className='me-3' />
-                Company name
+                prudentia bank
               </h6>
               <p>
                 Our website and application are there to cater all your financial needs.

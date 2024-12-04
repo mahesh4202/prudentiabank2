@@ -11,51 +11,39 @@ const Cards = () => {
   return (
     <Container>
         <CCardGroup>
-            <CCard className='mx-3'>
+            <CCard className='mx-3' style={{ overflowX: "hidden"}}>
                 <CCardImage orientation="top" src={image1} style={{ width: "100%" , height:"70%" }}/>
                 <CCardBody>
-                <CCardTitle>Home Loan</CCardTitle>
-                <button class="learn-more">
-                <span class="circle" aria-hidden="true">
-                <span class="icon arrow"></span>
-                </span>
-                <span class="button-text">Learn More</span>
+                <CCardTitle className='mb-4'>Home Loan</CCardTitle>
+                <button class="learn-more mb-3">
+                <span class="bn3637 bn38" style={{ padding: "10px" }}>Learn More</span>
                 </button>
                 </CCardBody>
             </CCard>
-            <CCard className='mx-3'>
+            <CCard className='mx-3' style={{ overflowX: "hidden"}}>
                 <CCardImage orientation="top" src={image2} />
                 <CCardBody>
-                <CCardTitle>Gold Loan</CCardTitle>
-                <button class="learn-more">
-                <span class="circle" aria-hidden="true">
-                <span class="icon arrow"></span>
-                </span>
-                <span class="button-text">Learn More</span>
+                <CCardTitle className='mb-4'>Gold Loan</CCardTitle>
+                <button class="learn-more mb-3">
+                <span class="bn3637 bn38" style={{ padding: "10px" }}>Learn More</span>
                 </button>
                 </CCardBody>
             </CCard>
-            <CCard className='mx-3'>
+            <CCard className='mx-3' style={{ overflowX: "hidden"}}>
                 <CCardImage orientation="top" src={image3} />
                 <CCardBody>
-                <CCardTitle>Fixed Deposit</CCardTitle>
-                <button class="learn-more">
-                <span class="circle" aria-hidden="true">
-                <span class="icon arrow"></span>
-                </span>
-                <span class="button-text">Learn More</span>
+                <CCardTitle className='mb-4'>Fixed Deposit</CCardTitle>
+                <button class="learn-more mb-3">
+                <span class="bn3637 bn38" style={{ padding: "10px" }}>Learn More</span>
                 </button>
                 </CCardBody>
             </CCard>
-            <CCard className='mx-3'>
+            <CCard className='mx-3' style={{ overflowX: "hidden"}}>
                 <CCardImage orientation="top" src={image4} />
                 <CCardBody>
-                <CCardTitle>Car Loan</CCardTitle>
-                <button class="learn-more">
-                <span class="circle" aria-hidden="true">
-                <span class="icon arrow"></span>
-                </span>
-                <span class="button-text">Learn More</span>
+                <CCardTitle className='mb-4'>Car Loan</CCardTitle>
+                <button class="learn-more mb-3">
+                <span class="bn3637 bn38" style={{ padding: "10px" }}>Learn More</span>
                 </button>
                 </CCardBody>
             </CCard>

@@ -34,7 +34,7 @@ const MFFirst = () => {
                   <td style={{ color: "#00BE00" }}>+20.3%</td>
                   <td style={{ color: "#00BE00" }}>+27.67%</td>
                 <div class="buttons-container">
-                  <button class="button-arounder">Invest</button>
+                  <button class="bn3637 bn38">Invest</button>
                 </div>
                 </tr>
                 <tr>
@@ -49,7 +49,7 @@ const MFFirst = () => {
                   <td style={{ color: "#00BE00" }}>+14.89%</td>
                   <td style={{ color: "#00BE00" }}>+20.67%</td>
                 <div class="buttons-container">
-                  <button class="button-arounder">Invest</button>
+                  <button class="bn3637 bn38">Invest</button>
                 </div>
                 </tr>
                 <tr>
@@ -64,7 +64,7 @@ const MFFirst = () => {
                   <td style={{ color: "#00BE00" }}>+19.32%</td>
                   <td style={{ color: "#00BE00" }}>+23.86%</td>
                 <div class="buttons-container">
-                  <button class="button-arounder">Invest</button>
+                  <button class="bn3637 bn38">Invest</button>
                 </div>
                 </tr>
                 <tr>
@@ -79,7 +79,7 @@ const MFFirst = () => {
                   <td style={{ color: "#00BE00" }}>+20.56%</td>
                   <td style={{ color: "#00BE00" }}>+25.41%</td>
                 <div class="buttons-container">
-                  <button class="button-arounder">Invest</button>
+                  <button class="bn3637 bn38">Invest</button>
                 </div>
                 </tr>
                 <tr>
@@ -94,7 +94,7 @@ const MFFirst = () => {
                   <td style={{ color: "#00BE00" }}>+25.42%</td>
                   <td style={{ color: "#00BE00" }}>+35.78%</td>
                 <div class="buttons-container">
-                  <button class="button-arounder">Invest</button>
+                  <button class="bn3637 bn38">Invest</button>
                 </div>
                 </tr>
                 <tr>
@@ -109,7 +109,7 @@ const MFFirst = () => {
                   <td style={{ color: "#00BE00" }}>+19.6%</td>
                   <td style={{ color: "#00BE00" }}>+30.67%</td>
                 <div class="buttons-container">
-                  <button class="button-arounder">Invest</button>
+                  <button class="bn3637 bn38">Invest</button>
                 </div>
                 </tr>
                 <tr>
@@ -124,7 +124,7 @@ const MFFirst = () => {
                   <td style={{ color: "#00BE00" }}>+28.91</td>
                   <td style={{ color: "#00BE00" }}>+36.87%</td>
                 <div class="buttons-container">
-                  <button class="button-arounder">Invest</button>
+                  <button class="bn3637 bn38">Invest</button>
                 </div>
                 </tr>
                 <tr>
@@ -139,7 +139,7 @@ const MFFirst = () => {
                   <td style={{ color: "#00BE00" }}>+12.67%</td>
                   <td style={{ color: "#00BE00" }}>+14.87%</td>
                 <div class="buttons-container">
-                  <button class="button-arounder">Invest</button>
+                  <button class="bn3637 bn38">Invest</button>
                 </div>
                 </tr>
                 <tr>
@@ -154,7 +154,7 @@ const MFFirst = () => {
                   <td style={{ color: "#00BE00" }}>+20.45%</td>
                   <td style={{ color: "#00BE00" }}>+24.97%</td>
                 <div class="buttons-container">
-                  <button class="button-arounder">Invest</button>
+                  <button class="bn3637 bn38">Invest</button>
                 </div>
                 </tr>
                 <tr>
@@ -169,7 +169,7 @@ const MFFirst = () => {
                   <td style={{ color: "#00BE00" }}>+15.41%</td>
                   <td style={{ color: "#00BE00" }}>+20.38%</td>
                 <div class="buttons-container">
-                  <button class="button-arounder">Invest</button>
+                  <button class="bn3637 bn38">Invest</button>
                 </div>
                 </tr>
                 <tr>
@@ -184,7 +184,7 @@ const MFFirst = () => {
                   <td style={{ color: "#FF0000" }}>-2.9%</td>
                   <td style={{ color: "#00BE00" }}>+10.52%</td>
                 <div class="buttons-container">
-                  <button class="button-arounder">Invest</button>
+                  <button class="bn3637 bn38">Invest</button>
                 </div>
                 </tr>
                 <tr>
@@ -199,7 +199,7 @@ const MFFirst = () => {
                   <td style={{ color: "#00BE00" }}>+23.67%</td>
                   <td style={{ color: "#00BE00" }}>+30.21%</td>
                 <div class="buttons-container">
-                  <button class="button-arounder">Invest</button>
+                  <button class="bn3637 bn38">Invest</button>
                 </div>
                 </tr>
             </tbody>

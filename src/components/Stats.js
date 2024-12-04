@@ -10,8 +10,7 @@ const Stats = () => {
     { start: 0, end: 2500, duration: 200000, label: 'Employees' },
     { start: 0, end: 1000, duration: 200000, label: 'ATMs' },
     { start: 0, end: 1000000, duration: 200000, label: 'Downloads' },
-    { start: 0, end: 500, duration: 200000, label: 'Service Centres' },
-    { start: 0, end: 10, duration: 200000, label: 'Years Experience' },
+    { start: 0, end: 25000, duration: 200000, label: 'Reviews' }
   ];
   return (
     <div className='mt-5'>

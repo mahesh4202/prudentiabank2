@@ -34,18 +34,18 @@ button {
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
   
-  --dur: .15s;
-  --delay: .15s;
+  --dur: .1s;
+  --delay: .1s;
   --radius: 16px;
   
   transition:
     border-top-left-radius var(--dur) var(--delay) ease-out,
-    border-top-right-radius var(--dur) calc(var(--delay) * 2) ease-out,
-    border-bottom-right-radius var(--dur) calc(var(--delay) * 3) ease-out,
-    border-bottom-left-radius var(--dur) calc(var(--delay) * 4) ease-out,
-    box-shadow calc(var(--dur) * 4) ease-out,
-    transform calc(var(--dur) * 4) ease-out,
-    background calc(var(--dur) * 4) steps(4, jump-end);
+    border-top-right-radius var(--dur) var(--delay) ease-out,
+    border-bottom-right-radius var(--dur) var(--delay) ease-out,
+    border-bottom-left-radius var(--dur) var(--delay) ease-out,
+    box-shadow var(--dur) ease-out,
+    transform var(--dur) ease-out,
+    background var(--dur) steps(4, jump-end);
 }
 
 .button-arounder:hover,

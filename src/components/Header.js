@@ -14,7 +14,7 @@ const Header = () => {
         <Nav className='heading'>Prudentia Bank</Nav>
       </div>
       <Nav>
-        <Link className='navlink' to="/">Home</Link>
+        <Link className='navlink' style={{ backgroundColor: "white" , color: "black" , borderRadius: "20px" }} to="/">Home</Link>
         <Link className='navlink' to="/loan">Loan</Link>
         <Link className='navlink' to="/upi">UPI</Link>
         <Link className='navlink' to="/mutualfunds">Mutual Funds</Link>

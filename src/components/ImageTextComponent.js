@@ -7,14 +7,24 @@ const ImageTextComponent = () => {
     <div className="containerimage">
       <div className="content">
         <div className="image-section">
-          <img
-            src={figma}
-            alt="Placeholder"
-            className="image"
-          />
+          <img src={figma} alt="Placeholder" className="image" />
         </div>
         <div className="text-section">
-          <h1 className="hi">Download our Mobile App for many more features</h1>
+          <div>
+            <h1 className="hi">Download our Mobile App for many more features</h1>
+            <div className="d-flex middle">
+              <div>
+                <a href='/'>
+                  <img class="bn45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" alt="bn45"/>
+                </a>                
+              </div>
+              <div>
+                <a href='/'>
+                  <img class="bn45" src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"alt="bn45"/>
+                </a>                
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>

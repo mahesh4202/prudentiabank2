@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/prudentiabank2/static/css/main.e024b9bc.css",
-    "main.js": "/prudentiabank2/static/js/main.de106e7b.js",
-    "static/js/453.a6d52da2.chunk.js": "/prudentiabank2/static/js/453.a6d52da2.chunk.js",
-    "static/media/carloan.jpg..jpg": "/prudentiabank2/static/media/carloan.jpg..2fe484d3ce3d99d5715a.jpg",
+    "main.css": "/prudentiabank2/static/css/main.2844e8a9.css",
+    "main.js": "/prudentiabank2/static/js/main.bfe69104.js",
+    "static/js/453.4ac1e8bc.chunk.js": "/prudentiabank2/static/js/453.4ac1e8bc.chunk.js",
     "static/media/personalloan.jpg": "/prudentiabank2/static/media/personalloan.e3c32d90908383ae737e.jpg",
+    "static/media/carloan.jpg..jpg": "/prudentiabank2/static/media/carloan.jpg..4e73bae50c879e69288a.jpg",
     "static/media/propertyloan.jpg": "/prudentiabank2/static/media/propertyloan.4745f960ae9ffc6f3fab.jpg",
     "static/media/educationloan.jpg": "/prudentiabank2/static/media/educationloan.1876cba98e1564fbe1e6.jpg",
     "static/media/businessloan.jpg": "/prudentiabank2/static/media/businessloan.24c74b4e33a5b8b7192f.jpg",
@@ -21,12 +21,12 @@
     "static/media/Main Page-Product.4.jpg": "/prudentiabank2/static/media/Main Page-Product.4.53fb75701b92f043f759.jpg",
     "static/media/logo.svg": "/prudentiabank2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/prudentiabank2/index.html",
-    "main.e024b9bc.css.map": "/prudentiabank2/static/css/main.e024b9bc.css.map",
-    "main.de106e7b.js.map": "/prudentiabank2/static/js/main.de106e7b.js.map",
-    "453.a6d52da2.chunk.js.map": "/prudentiabank2/static/js/453.a6d52da2.chunk.js.map"
+    "main.2844e8a9.css.map": "/prudentiabank2/static/css/main.2844e8a9.css.map",
+    "main.bfe69104.js.map": "/prudentiabank2/static/js/main.bfe69104.js.map",
+    "453.4ac1e8bc.chunk.js.map": "/prudentiabank2/static/js/453.4ac1e8bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e024b9bc.css",
-    "static/js/main.de106e7b.js"
+    "static/css/main.2844e8a9.css",
+    "static/js/main.bfe69104.js"
   ]
 }

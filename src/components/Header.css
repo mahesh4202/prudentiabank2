@@ -1,0 +1,41 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: black;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    border-radius: 10px;
+    width: 120px;
+    height: 80px;
+    margin-right: 10px;
+  }
+
+  .heading{
+    color: white;
+    font-size: xx-large;
+    font-weight: 900;
+    text-decoration: solid;
+  }
+
+  .navlink {
+    color: white;
+    list-style-type: none;
+    display: flex;
+    text-decoration: none;
+    padding: 0px 10px;
+    font-weight: 700;
+  }
+
+  @media (max-width: 768px) {
+    .navlink {
+      display: none;
+    }
+  }

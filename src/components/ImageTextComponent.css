@@ -1,0 +1,58 @@
+.containerimage {
+    background-image: url('/src/Assets/Background\ Image.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+  }
+  
+  .content {
+    display: flex;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .image-section {
+    flex: 1;
+  }
+  
+  .image {
+    width: 100%;
+    height: 70vh;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .text-section {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hi {
+    font-size: 3em;
+    color: #ffffff;
+  }
+
+  .bn45 {
+    width: 170px;
+    height: 50px;
+  }
+
+  .middle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  @media screen and (max-width: 500px) {
+    .image {
+      display: none;
+    }
+  }
